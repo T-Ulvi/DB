@@ -1,5 +1,4 @@
-{
-  "products":[
+[
     {
       "id":1,
       "url":"https://www.montredo.com/wp-content/uploads/2020/12/Breitling-586x470.jpg",
@@ -78,4 +77,4 @@
       "quantity":1
     }
   ]
-}
+
